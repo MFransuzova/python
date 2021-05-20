@@ -4,3 +4,4 @@ list_.append(float(input("Введите дробное число: ")))
 
 for list__ in list_:
     print(list__)
+    print("Hi")
